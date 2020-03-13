@@ -654,29 +654,22 @@
     vue "^2.6.10"
     vuex "^3.0.1"
 
-"@optimuscms/theme@^0.3.2":
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/@optimuscms/theme/-/theme-0.3.2.tgz#d79c2863b53ffd30240f8a2b66198264202723e0"
-  integrity sha512-sc8ubWawsWkBW3y9Ahm7YZEhTnN10x1gUWf40Q61OcZ9vfBxlqy2sm3wk1lKHASG/8pJ6i90fqArJaMqz79W9w==
+"@optimuscms/theme@^0.3.3":
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/@optimuscms/theme/-/theme-0.3.3.tgz#5a8e13e8f55532b83c0dafd61b92d15b3d3a4bb5"
+  integrity sha512-F/bdscu1v2vW7UFJI1RXJ/F1HuNsa/xwQQXFU0afA2uQO/1ovvi1RG1Y+T1VaywvCY6ZoR590Ki1eLOa4f5ZvA==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.4"
     "@fortawesome/free-regular-svg-icons" "^5.3.1"
     "@fortawesome/free-solid-svg-icons" "^5.3.1"
     "@fortawesome/vue-fontawesome" "^0.1.1"
     "@optix/sass" "^0.2.5"
-    "@optix/vue-select" "^0.0.6"
+    "@optix/vue-select" "^0.0.7"
     lodash "^4.17.15"
     matcher "^2.0.0"
     tailwindcss "^1.0"
     vue "^2.6.10"
     vuex "^3.1.0"
-
-"@optix/sass@^0.2.4":
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/@optix/sass/-/sass-0.2.4.tgz#9b1e5133640de294bc8ff62f15d689276cb57b45"
-  integrity sha512-Pn2BbS+UPy68Yy9NnzrL0aX7XV9uI+Px76zuglwHYiFUQRSfhU4EpzVP1NVNH8heA07kUru8Kd6Q6zLVJn477A==
-  dependencies:
-    tailwindcss "^1.0"
 
 "@optix/sass@^0.2.5":
   version "0.2.5"
@@ -685,10 +678,10 @@
   dependencies:
     tailwindcss "^1.0"
 
-"@optix/vue-select@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@optix/vue-select/-/vue-select-0.0.6.tgz#492fde7e626e3d82acea9bf652257335cd3b1135"
-  integrity sha512-pXn4S9H3Csl7f48y3NMFpUqDba1IpmdGBzscvS5qUtElBPYaepA8+ipRV4aWhCrfVDBUq930P6VVjC14vXWclQ==
+"@optix/vue-select@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@optix/vue-select/-/vue-select-0.0.7.tgz#5f54fad133b2c752d98a1834bafaff37e0606e1b"
+  integrity sha512-M8BiwYlVtIsAp3rKdit0lpeeLQ/z89jfu/N6Pyt2fF2F03fW0gOl0odGuxyMiUwt7Or/E1wL0Q8/pkDKZSvqBA==
   dependencies:
     vue "^2.6.10"
 
@@ -890,8 +883,9 @@ acorn-jsx@^5.0.0, acorn-jsx@^5.0.2:
   integrity sha512-tiNTrP1MP0QrChmD2DdupCr6HWSFeKVw5d/dHTu4Y7rkAkRhU/Dt7dphAfIUyxtHpl/eBVip5uTNSpQJHylpAw==
 
 acorn@^6.0.2, acorn@^6.2.1:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.3.0.tgz#0087509119ffa4fc0a0041d1e93a417e68cb856e"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 acorn@^7.0.0:
   version "7.0.0"
